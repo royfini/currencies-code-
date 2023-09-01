@@ -1,0 +1,22 @@
+.Container{
+    border: solid black 5px;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 18px;
+    border-radius: 8px;
+    display: inline-block;
+    background-color: gray;
+    justify-content: space-between;
+    display: flex;
+}
+
+.SymbolStyle{
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+
+.NameStyle{
+    font-size: x-large;
+}
